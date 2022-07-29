@@ -1,6 +1,8 @@
 # mikutap
 初音未来版本的通过点击/触摸播放声音并出现变化图案的互动内容。
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/23bf3b94-20d8-4037-9154-09e498bb971e/deploy-status)](https://app.netlify.com/sites/mikutap/deploys)
+
 # 原作者
 https://aidn.jp/about/
 
