@@ -1,0 +1,8 @@
+*.md
+LICENSE
+Dockerfile
+.git
+.github
+.vscode
+.gitignore
+Makefile
